@@ -1,7 +1,7 @@
 # Spatial-MT-SNV
 Spatial MT-SNV analysis in 2 published Visium datasets (prostate cancer and pancreatic cancer) using SNPmanifold.
 
-Citation for the results: Standard PolyA-based spatial transcriptomics can detect mitochondrial variants for high-resolution tumor lineage tracing
+Citation for the results: Standard PolyA-based spatial transcriptomics can detect mitochondrial variants for high-resolution tumor lineage tracing, 2026
 
 Prostate cancer dataset: Spatially resolved clonal copy number alterations in benign and malignant tissue, Nature 2022
 
